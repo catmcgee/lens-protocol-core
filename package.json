@@ -71,7 +71,8 @@
     }
   },
   "dependencies": {
-    "@openzeppelin/contracts": "4.5.0"
+    "@openzeppelin/contracts": "4.5.0",
+    "@sismo-core/sismo-connect-solidity": "^0.0.7"
   },
   "author": "Lens",
   "contributors": [
